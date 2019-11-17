@@ -1,0 +1,7 @@
+{
+  "name": "IonicRestApi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
